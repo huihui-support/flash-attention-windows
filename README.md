@@ -2,7 +2,7 @@
 
 Pre-built Windows wheels for [Flash-Attention 2](https://github.com/Dao-AILab/flash-attention) - The state-of-the-art efficient attention implementation for NVIDIA GPUs.
 
-## cp310
+# cp310
 
 ### Requirements
 
@@ -25,7 +25,7 @@ pip install flash-attn==2.7.0.post2 --no-build-isolation
 ```
 
 
-## cp311
+# cp311
 
 ### Requirements
 
